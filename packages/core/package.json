@@ -1,0 +1,20 @@
+{
+  "name": "core",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "volta": {
+    "node": "16.17.0",
+    "npm": "8.17.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "mobx": "^6.6.1"
+  }
+}
