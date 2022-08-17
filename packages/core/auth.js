@@ -1,0 +1,1 @@
+export const isUserAdmin = (user) => user.role === "admin";
