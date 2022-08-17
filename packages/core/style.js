@@ -1,0 +1,1 @@
+export const isStringIncluded = (str, test) => str.includes(test);
